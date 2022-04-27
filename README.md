@@ -1,6 +1,5 @@
-# Blog - Space Traveling
+# App - Upfi
 
-![mock1](https://user-images.githubusercontent.com/71772559/113493479-eceeda80-94b5-11eb-94ea-59e50e56a31f.png)
 
 ## 📚 Informações sobre o projeto
 
@@ -18,7 +17,6 @@
 
 &nbsp;
 
-![mock2](https://user-images.githubusercontent.com/71772559/113493556-91711c80-94b6-11eb-8580-17c7fd509640.png)
 
 &nbsp;
 
@@ -30,8 +28,6 @@
 * [Utteranc](https://utteranc.es/)
 
 &nbsp;
-
-<img src="https://user-images.githubusercontent.com/71772559/113493868-cd59b100-94b9-11eb-8506-64061203ce08.gif" width="100%" />
 
 &nbsp;
 
