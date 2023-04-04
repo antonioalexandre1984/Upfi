@@ -30,12 +30,12 @@
 ## ⚙️ Instalação
 ```
 # Abra um terminal e copie este repositório com o comando
-$ git clone https://github.com/antonioalexandre1984/Rocketseat_ignite2022_React_Chapter_05_Challenger01
+$ git clone https://github.com/antonioalexandre1984/Upfi.git
 ```
 
 ```
 # Acesse a pasta da aplicação
-$ cd Rocketseat_ignite2022_React_Chapter_05_Challenger01
+$ cd Upfi
 
 # Crie um arquivo .env.local e coloque as variaveis
 # de ambiente baseado no arquivo .env.example que
