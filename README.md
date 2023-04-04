@@ -15,10 +15,6 @@
 * Uso do sistema estático do Next.js, onde os posts são mantidos no cache para um melhor carregamento.
 * Sistema de comentários usando o Utteranc.
 
-&nbsp;
-
-
-&nbsp;
 
 ## 🛠️ Tecnologias/Ferramentas ultilizadas
 
